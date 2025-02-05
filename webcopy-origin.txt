@@ -1,0 +1,460 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62b691d3ddbeb85acc7e3e56_hero.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62b691d3ddbeb85acc7e3e56_hero.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62b7e3e57d990566bf38a4b2_Group 257.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62b7e3e57d990566bf38a4b2_Group 257.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c497b632d43219110_img_3-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c497b632d43219110_img_3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c497b632d43219110_img_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c497b632d43219110_img_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c6632b38eb80f2198_img_2-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c6632b38eb80f2198_img_2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c6632b38eb80f2198_img_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c6632b38eb80f2198_img_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c78540601ebec94f3_img_1-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c78540601ebec94f3_img_1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c78540601ebec94f3_img_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c78540601ebec94f3_img_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c93ff406a68b423a4_img_4-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c93ff406a68b423a4_img_4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c93ff406a68b423a4_img_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c93ff406a68b423a4_img_4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4723f8208b9e0d6d10_slide_4-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4723f8208b9e0d6d10_slide_4-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4723f8208b9e0d6d10_slide_4-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4723f8208b9e0d6d10_slide_4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4723f8208b9e0d6d10_slide_4-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4723f8208b9e0d6d10_slide_4-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4723f8208b9e0d6d10_slide_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4723f8208b9e0d6d10_slide_4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4762a08d3b22706551_slide_1-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4762a08d3b22706551_slide_1-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4762a08d3b22706551_slide_1-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4762a08d3b22706551_slide_1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4762a08d3b22706551_slide_1-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4762a08d3b22706551_slide_1-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4762a08d3b22706551_slide_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4762a08d3b22706551_slide_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4778540613b3edcf42_slide_2-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4778540613b3edcf42_slide_2-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4778540613b3edcf42_slide_2-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4778540613b3edcf42_slide_2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4778540613b3edcf42_slide_2-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4778540613b3edcf42_slide_2-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f4778540613b3edcf42_slide_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4778540613b3edcf42_slide_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f47fa2cce532662cdaa_slide_3-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f47fa2cce532662cdaa_slide_3-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f47fa2cce532662cdaa_slide_3-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f47fa2cce532662cdaa_slide_3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f47fa2cce532662cdaa_slide_3-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f47fa2cce532662cdaa_slide_3-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62ba9f47fa2cce532662cdaa_slide_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f47fa2cce532662cdaa_slide_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bbd64b0bdde7371dcd0794_glow_green.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bbd64b0bdde7371dcd0794_glow_green.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bbd64b2025066a300b367d_glow_red.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bbd64b2025066a300b367d_glow_red.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2705079bd4e1affa8326_glow_top_green.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2705079bd4e1affa8326_glow_top_green.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2705b572c99e1e2254e6_glow_top_red.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2705b572c99e1e2254e6_glow_top_red.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be10820277627d690ab_menu_3-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be10820277627d690ab_menu_3-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be10820277627d690ab_menu_3-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be10820277627d690ab_menu_3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be10820277627d690ab_menu_3-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be10820277627d690ab_menu_3-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be10820277627d690ab_menu_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be10820277627d690ab_menu_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be120b942bbac75d5a6_menu_1-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be120b942bbac75d5a6_menu_1-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be120b942bbac75d5a6_menu_1-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be120b942bbac75d5a6_menu_1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be120b942bbac75d5a6_menu_1-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be120b942bbac75d5a6_menu_1-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be120b942bbac75d5a6_menu_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be120b942bbac75d5a6_menu_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be13ff0fc40432ec86d_menu_2-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be13ff0fc40432ec86d_menu_2-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be13ff0fc40432ec86d_menu_2-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be13ff0fc40432ec86d_menu_2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be13ff0fc40432ec86d_menu_2-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be13ff0fc40432ec86d_menu_2-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be13ff0fc40432ec86d_menu_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be13ff0fc40432ec86d_menu_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be1f11f1f5cff1b63b8_menu_4-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be1f11f1f5cff1b63b8_menu_4-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be1f11f1f5cff1b63b8_menu_4-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be1f11f1f5cff1b63b8_menu_4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be1f11f1f5cff1b63b8_menu_4-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be1f11f1f5cff1b63b8_menu_4-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bd2be1f11f1f5cff1b63b8_menu_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be1f11f1f5cff1b63b8_menu_4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e849f925c9eb1017a7_img_8-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e849f925c9eb1017a7_img_8-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e849f925c9eb1017a7_img_8-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e849f925c9eb1017a7_img_8-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e849f925c9eb1017a7_img_8.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e849f925c9eb1017a7_img_8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e880fba747416cc233_img_6-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e880fba747416cc233_img_6-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e880fba747416cc233_img_6.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e880fba747416cc233_img_6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e8e1bec50a21617b83_img_7-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e8e1bec50a21617b83_img_7-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e8e1bec50a21617b83_img_7-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e8e1bec50a21617b83_img_7-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e8e1bec50a21617b83_img_7.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e8e1bec50a21617b83_img_7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea456a5e0c94_img_5-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea456a5e0c94_img_5-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea456a5e0c94_img_5-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea456a5e0c94_img_5-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea456a5e0c94_img_5-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea456a5e0c94_img_5-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea456a5e0c94_img_5.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea456a5e0c94_img_5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea97a45e0c93_img_9-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea97a45e0c93_img_9-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea97a45e0c93_img_9-p-800.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea97a45e0c93_img_9-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea97a45e0c93_img_9.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea97a45e0c93_img_9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/css/elara-template.webflow.25fe6b13c.css
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\css\elara-template.webflow.25fe6b13c.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/62b5237dc8704ae48520bb20/js/webflow.57ec616e0.js
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\js\webflow.57ec616e0.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62b52c3355d004037d5e4f7f_Webclip.png
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62b52c3355d004037d5e4f7f_Webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62b52def7697bd2b774f191a_Favicon.png
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62b52def7697bd2b774f191a_Favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62b888eef1e18e02d051ba84_logo.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62b888eef1e18e02d051ba84_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba6107f04e5916ff8600f6_Number 2.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6107f04e5916ff8600f6_Number 2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba612e2f682ab6765322a1_Number 1.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba612e2f682ab6765322a1_Number 1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba61323ca7ed6de8c8dd1d_Number 3.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba61323ca7ed6de8c8dd1d_Number 3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c497b632d43219110_img_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c497b632d43219110_img_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c6632b38eb80f2198_img_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c6632b38eb80f2198_img_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c78540601ebec94f3_img_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c78540601ebec94f3_img_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba6f6c93ff406a68b423a4_img_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba6f6c93ff406a68b423a4_img_4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba9f4723f8208b9e0d6d10_slide_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4723f8208b9e0d6d10_slide_4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba9f4762a08d3b22706551_slide_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4762a08d3b22706551_slide_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba9f4778540613b3edcf42_slide_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f4778540613b3edcf42_slide_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62ba9f47fa2cce532662cdaa_slide_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62ba9f47fa2cce532662cdaa_slide_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bbc679a1ccdb7fc8612c3b_arrow.svg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bbc679a1ccdb7fc8612c3b_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bd2be10820277627d690ab_menu_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be10820277627d690ab_menu_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bd2be120b942bbac75d5a6_menu_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be120b942bbac75d5a6_menu_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bd2be13ff0fc40432ec86d_menu_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be13ff0fc40432ec86d_menu_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bd2be1f11f1f5cff1b63b8_menu_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bd2be1f11f1f5cff1b63b8_menu_4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bef6e849f925c9eb1017a7_img_8.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e849f925c9eb1017a7_img_8.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bef6e880fba747416cc233_img_6.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e880fba747416cc233_img_6.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bef6e8e1bec50a21617b83_img_7.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e8e1bec50a21617b83_img_7.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea456a5e0c94_img_5.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea456a5e0c94_img_5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bef6e9ea6eea97a45e0c93_img_9.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bef6e9ea6eea97a45e0c93_img_9.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62b5237dc8704ae48520bb20/62bf473eb009b8b1bde901ab_blog.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62b5237dc8704ae48520bb20\62bf473eb009b8b1bde901ab_blog.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbe74271a07043811b584_blog_4_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbe74271a07043811b584_blog_4_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbe8620768fa08fda8340_blog_4.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbe8620768fa08fda8340_blog_4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf13fb74e188096a5cc6_blog_3_thumbnail-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf13fb74e188096a5cc6_blog_3_thumbnail-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf13fb74e188096a5cc6_blog_3_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf13fb74e188096a5cc6_blog_3_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf1d88aa27955dbf5df9_blog_3.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf1d88aa27955dbf5df9_blog_3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf390bdde716fdcc648c_blog_2_thumbnail-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf390bdde716fdcc648c_blog_2_thumbnail-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf390bdde716fdcc648c_blog_2_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf390bdde716fdcc648c_blog_2_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf3e1de66666a84c8561_blog_2.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf3e1de66666a84c8561_blog_2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf5433f8841440c4079a_blog_1_thumbnail-p-500.jpeg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf5433f8841440c4079a_blog_1_thumbnail-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf5433f8841440c4079a_blog_1_thumbnail.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf5433f8841440c4079a_blog_1_thumbnail.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bbbf5883fd9c0ca1e7c451_blog_1.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bbbf5883fd9c0ca1e7c451_blog_1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/62bbbd28e2d1e144a9264116/62bf0fb780fba732486d7ae4_blog.jpg
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\62bbbd28e2d1e144a9264116\62bf0fb780fba732486d7ae4_blog.jpg
+Content Type: image/jpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62b5237dc8704ae48520bb20
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://elara-template.webflow.io/
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/about
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/blog
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\blog.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/contact
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/menu
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\menu.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/post/9-best-healthy-chickpea-recipes
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\post\9-best-healthy-chickpea-recipes.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/post/elara-gourmet-restaurant
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\post\elara-gourmet-restaurant.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/post/elote-style-quinoa-salad
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\post\elote-style-quinoa-salad.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/post/fuss-free-all-time-favourites
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\post\fuss-free-all-time-favourites.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/reservation
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\reservation.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/template-info/changelog
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\template-info\changelog.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/template-info/licensing
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\template-info\licensing.html
+Content Type: text/html
+
+Uri: https://elara-template.webflow.io/template-info/style-guide
+File Name: C:\Downloaded Web Sites\elara-template.webflow.io\template-info\style-guide.html
+Content Type: text/html
+
