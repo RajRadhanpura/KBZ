@@ -28,7 +28,10 @@
     </script>
     <link href="assets/img/logo.png" rel="shortcut icon" type="image/x-icon">
     <link href="assets/img/logo.png" rel="apple-touch-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap-grid.min.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
+
 
 <body>
     <div data-w-id="c3429d9f-afd1-51d5-3dbd-60bcf698be1b" class="section-hero">
@@ -227,9 +230,54 @@
             </div>
         </div>
         <div class="container">
-            <div class="row">
-                <div class="col-4">
-                    <img src="assets/img/about1.jpg" alt="">
+            <div class="row mt-5">
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/1.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/2.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/3.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/4.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/5.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/6.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/7.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/8.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/9.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/10.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/11.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/12.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/13.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/14.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/15.png" alt="">
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-12 col-12 mb-3" data-aos="fade-up" data-aos-duration="300">
+                    <img src="assets/img/16.png" alt="">
                 </div>
             </div>
         </div>
@@ -258,7 +306,7 @@
             <div class="right-arrow w-slider-arrow-right"></div>
             <div class="slide-nav w-slider-nav w-round"></div>
         </div> -->
-        <div class="content">
+        <!-- <div class="content">
             <div data-w-id="4a205b33-27ea-e7f8-f4fc-bb110c819d2d"
 
                 class="line-space">
@@ -375,9 +423,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
-    <div data-w-id="7420eedc-e21f-a481-1ed2-13df105fdf36" style="opacity:0" class="section-footer">
+    <div data-w-id="7420eedc-e21f-a481-1ed2-13df105fdf36" class="section-footer">
         <div class="content">
             <div data-w-id="f30fee03-d2ba-4de6-a88a-c02d9a07b64b" class="newsletter">
                 <div data-w-id="f30fee03-d2ba-4de6-a88a-c02d9a07b64c" class="subtitle">
@@ -391,8 +439,7 @@
                         <div class="line-horizontal"></div>
                     </div>
                 </div>
-                <h3 data-w-id="f30fee03-d2ba-4de6-a88a-c02d9a07b655" class="heading-newsletter">sign up to our
-                    newsletter</h3>
+                <h3 data-w-id="f30fee03-d2ba-4de6-a88a-c02d9a07b655" class="heading-newsletter">Subscribe Our Newsletter</h3>
                 <div data-w-id="f30fee03-d2ba-4de6-a88a-c02d9a07b657" class="form-block-newsletter w-form">
                     <form id="wf-form-Newsletter" name="wf-form-Newsletter" data-name="Newsletter" method="get"
                         class="form-newsletter" data-wf-page-id="62b5237dc8704a78b820bb21"
@@ -411,10 +458,11 @@
             <div class="w-layout-grid grid-footer">
                 <div id="w-node-ef21cce3-7ff0-4a03-c400-fc13cd349111-cd349110"
                     data-w-id="ef21cce3-7ff0-4a03-c400-fc13cd349111" class="block-footer">
-                    <h6 class="heading-footer">Social</h6><a href="https://www.instagram.com/webflow/" target="_blank"
-                        class="link-footer">INSTAGRAM</a><a href="https://www.facebook.com/webflow/" target="_blank"
-                        class="link-footer">FACEBOOK</a><a href="https://twitter.com/webflow" target="_blank"
-                        class="link-footer">TWITTER</a>
+                    <h6 class="heading-footer">Social</h6>
+                    <a href="https://www.instagram.com/" target="_blank" class="link-footer">INSTAGRAM</a>
+                    <a href="https://www.facebook.com/" target="_blank" class="link-footer">FACEBOOK</a>
+                    <a href="https://twitter.com" target="_blank" class="link-footer">TWITTER</a>
+                    <a href="https://twitter.com" target="_blank" class="link-footer">LINKEDIN</a>
                 </div>
                 <div id="w-node-ef21cce3-7ff0-4a03-c400-fc13cd34911a-cd349110"
                     data-w-id="ef21cce3-7ff0-4a03-c400-fc13cd34911a" class="line">
@@ -425,22 +473,28 @@
                 </div>
                 <div id="w-node-ef21cce3-7ff0-4a03-c400-fc13cd34911f-cd349110"
                     data-w-id="ef21cce3-7ff0-4a03-c400-fc13cd34911f" class="block-footer">
-                    <h6 class="heading-footer">Quick Links</h6><a href="template-info/licensing.html"
-                        class="link-footer">LICENSING</a><a href="template-info/style-guide.html"
-                        class="link-footer">STYLE GUIDE</a><a href="template-info/changelog.html"
-                        class="link-footer">CHANGELOG</a>
+                    <h6 class="heading-footer">Quick Links</h6>
+                    <a href="#" class="link-footer">ABOUT</a>
+                    <a href="#" class="link-footer">PRODUCTS</a>
+                    <a href="#" class="link-footer">DISTRIBUTOR INQUIRY</a>
+                    <a href="#" class="link-footer">CAREER</a>
+                    <a href="#" class="link-footer">CONTACT US</a>
+                    <a href="#" class="link-footer">SITEMAP</a>
                 </div>
             </div>
         </div>
         <div class="sub-footer">
-            <div data-w-id="06d0c210-1786-3137-a819-1338facc04d7" class="text-sub-footer">Made by <a
-                    href="https://webflow.com/templates/designers/maxim-white" target="_blank"
-                    class="link-sub-footer">Maxim W.</a> Powered by <a href="https://webflow.com/" target="_blank"
-                    class="link-sub-footer">WEBFLOW</a></div>
+            <div data-w-id="06d0c210-1786-3137-a819-1338facc04d7" class="text-sub-footer">© 2025 by <a href="#" target="_blank"
+                    class="link-sub-footer">KBZ FOODS PVT. LTD.</a> | CRAFTED by <a href="#" target="_blank"
+                    class="link-sub-footer">UNSANE MEDIA.</a></div>
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="62b5237dc8704ae48520bb20/js/webflow.57ec616e0.js" type="text/javascript"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>
